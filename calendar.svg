@@ -1,4 +1,4 @@
-params = new URLSearchParams(new URL(window.location).search);<svg onload="init()" xmlns="http://www.w3.org/2000/svg"
+<svg onload="init()" xmlns="http://www.w3.org/2000/svg"
 aria-label="Calendar" role="img"
 viewBox="0 0 512 512">
 <script type="text/ecmascript"><![CDATA[
